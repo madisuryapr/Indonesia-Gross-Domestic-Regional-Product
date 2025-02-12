@@ -1,0 +1,39 @@
+﻿province_isocode,province_name,geo_id,region_id,economic_development_area_id
+ID-AC-11,Aceh,ID-SM,KBI,EDA-I
+ID-SU-12,Sumatera Utara,ID-SM,KBI,EDA-I
+ID-SB-13,Sumatera Barat,ID-SM,KBI,EDA-II
+ID-RI-14,Riau,ID-SM,KBI,EDA-II
+ID-JA-15,Jambi,ID-SM,KBI,EDA-III
+ID-SS-16,Sumatera Selatan,ID-SM,KBI,EDA-III
+ID-BE-17,Bengkulu,ID-SM,KBI,EDA-III
+ID-LA-18,Lampung,ID-SM,KBI,EDA-IV
+ID-BB-19,Kepulauan Bangka Belitung,ID-SM,KBI,EDA-III
+ID-KR-21,Kepulauan Riau,ID-SM,KBI,EDA-II
+ID-JK-31,DKI Jakarta,ID-JW,KBI,EDA-IV
+ID-JB-32,Jawa Barat,ID-JW,KBI,EDA-IV
+ID-JT-33,Jawa Tengah,ID-JW,KBI,EDA-IV
+ID-YO-34,DI Yogyakarta,ID-JW,KBI,EDA-IV
+ID-JI-35,Jawa Timur,ID-JW,KBI,EDA-VI
+ID-BT-36,Banten,ID-JW,KBI,EDA-IV
+ID-BA-51,Bali,ID-NU,KTI,EDA-VI
+ID-NB-52,Nusa Tenggara Barat,ID-NU,KTI,EDA-VIII
+ID-NT-53,Nusa Tenggara Timur,ID-NU,KTI,EDA-VIII
+ID-KB-61,Kalimantan Barat,ID-KA,KBI,EDA-V
+ID-KT-62,Kalimantan Tengah,ID-KA,KBI,EDA-VII
+ID-KS-63,Kalimantan Selatan,ID-KA,KBI,EDA-VII
+ID-KI-64,Kalimantan Timur,ID-KA,KBI,EDA-VII
+ID-KU-65,Kalimantan Utara,ID-KA,KBI,EDA-VII
+ID-SA-71,Sulawesi Utara,ID-SL,KTI,EDA-IX
+ID-ST-72,Sulawesi Tengah,ID-SL,KTI,EDA-IX
+ID-SN-73,Sulawesi Selatan,ID-SL,KTI,EDA-VIII
+ID-SG-74,Sulawesi Tenggara,ID-SL,KTI,EDA-VIII
+ID-GO-75,Gorontalo,ID-SL,KTI,EDA-IX
+ID-SR-76,Sulawesi Barat,ID-SL,KTI,EDA-VIII
+ID-MA-81,Maluku,ID-ML,KTI,EDA-X
+ID-MU-82,Maluku Utara,ID-ML,KTI,EDA-X
+ID-PA-91,Papua,ID-PP,KTI,EDA-X
+ID-PB-92,Papua Barat,ID-PP,KTI,EDA-X
+ID-PS-93,Papua Selatan,ID-PP,KTI,EDA-X
+ID-PT-94,Papua Tengah,ID-PP,KTI,EDA-X
+ID-PE-95,Papua Pegunungan,ID-PP,KTI,EDA-X
+ID-PD-96,Papua Barat Daya,ID-PP,KTI,EDA-X
