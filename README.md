@@ -21,3 +21,7 @@ This database encompasses 10 different tables, namely:
 4. dim_year            : This table represents the year data and their corresponding ID
 5. dim_sector          : This table contains data regarding 17 sectors within Indonesian economy, with an addition of Total GDRP. I standardize the sector ID with 5 characters, combining sector ID from Indonesia 2020 Business Classification (also known as Klasifikasi Baku Lapangan Usaha Indonesia or KBLI 2020)
 6. dim_provinces        : This table encompassess informations regarding 38 Indonesia provinces
+7. dim_region_area      : This table informs audience regarding the division of Indonesia's Region, also known as "Kawasan" in Bahasa Indonesia
+8. dim_geographic_area  : This table represents Indonesia's Geographic area based on corresponding island
+9. dim_economic_development_area  : This is the sub-table of main development zone table where it contains information regarding Indonesia's economic development area
+10. dim_main_development_zone    : This table encapsulates information pertaining to Indonesia's main development zone
