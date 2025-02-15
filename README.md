@@ -1,5 +1,5 @@
-# Indonesia Gross Domestic Regional Product (GDRP)
-
+# Indonesia Gross Domestic Regional Product (GDRP) Database
+## General Information
 This is my first portfolio for 2025
 
 This repository contains Indonesia Gross Domestic Regional Product (GDRP) Database project, in which comprises quarterly 
