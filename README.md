@@ -19,7 +19,7 @@ This database encompasses 10 different tables, namely:
 2. dim_base_price      : This dimension table contains two different types of base price for calculating GDRP value, i.e. Nominal (ADHB) and Real (ADHK) approaches. Please access Indonesia National Agency of Statistic (Badan Pusat Statistik or BPS) for details
 3. dim_quarterly       : In this table, I inserted detailed data pertaining to date of times in quarterly terms
 4. dim_year            : This table represents the year data and their corresponding ID
-5. dim_sector          : This table contains data regarding 17 sectors within Indonesian economy, with an addition of Total GDRP. I standardize the sector ID with 5 characters, combining sector ID from Indonesia 2020 Business Classification (also known as Klasifikasi Baku Lapangan Usaha Indonesia or KBLI 2020)
+5. dim_sector          : This table contains data regarding 17 sectors within Indonesian economy. I standardized the sector code with 5 characters, combining sector ID from Indonesia 2020 Business Classification (also known as Klasifikasi Baku Lapangan Usaha Indonesia or KBLI 2020) with sector's abbreviation
 6. dim_provinces        : This table encompassess informations regarding 38 Indonesia provinces
 7. dim_region_area      : This table informs audience regarding the division of Indonesia's Region, also known as "Kawasan" in Bahasa Indonesia
 8. dim_geographic_area  : This table represents Indonesia's Geographic area based on corresponding island
