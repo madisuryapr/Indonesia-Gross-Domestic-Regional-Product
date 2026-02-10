@@ -1,6 +1,8 @@
-# Indonesia Gross Domestic Regional Product (GDRP) Database
+# Indonesia Gross Domestic Regional Product (GDRP) Database  
 
-> **A Database ERD of Gross Domestic Regional Product (GDRP/PDBR) Data for 38 Indonesian Provinces**
+[Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+> **A Database ERD of Gross Domestic Regional Product (GDRP/PDRB) Data for 38 Indonesian Provinces**
 
 ## General Information
 
