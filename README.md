@@ -3,7 +3,6 @@
 > **A Database ERD of Gross Domestic Regional Product (GDRP/PDBR) Data for 38 Indonesian Provinces**
 
 ## General Information
-This is my first portfolio for 2025
 
 This repository contains Indonesia Gross Domestic Regional Product (GDRP) Database project, in which comprises quarterly 
 data for Indonesia's 38 provinces overall economy performance, encompassing 2010 to 2024 period of time. I engineered Extract, Load, and Transform (ELT)
